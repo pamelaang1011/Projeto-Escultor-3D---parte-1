@@ -3,7 +3,7 @@ Projeto Escultor 3D - Parte 1
 Este projeto consiste no desenvolvimento de uma ferramenta em C++ para a criação de esculturas tridimensionais representadas por matrizes digitais, utilizando o conceito de Voxels, semelhante à lógica do jogo Minecraft.
 
 Descrição da Escultura: Campo de Futebol
-Para validar a biblioteca de ferramentas, foi desenvolvido um programa de testes que gera um campo de futebol, utilizando de forma exaustiva todos os métodos de desenho e remoção disponíveis na classe. 
+Para validar a biblioteca de ferramentas, foi desenvolvido um programa de testes que gera um campo de futebol, utilizando os métodos de desenho e remoção disponíveis na classe. 
 
 A escultura inclui:
 *   Gramado e marcações: Criados com `putBox` e `setColor`.
